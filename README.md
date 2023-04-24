@@ -12,7 +12,7 @@ It is a touch-controlled spectacle integrated with Computer Vision that is desig
 • Other Sensors<br />
 • Convolution Neural Network(CNN)
 
-##USP:
+## USP:
 • Lightweight<br />
 • Compact and powerful ESP-32 used<br />
 • Affordable<br />
