@@ -18,3 +18,4 @@ It is a touch-controlled spectacle integrated with Computer Vision that is desig
 • Affordable<br />
 • Android app which will run the ML model<br />
 • Focus on less feature more performance<br />
+• Easy to use<br />
