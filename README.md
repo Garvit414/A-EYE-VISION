@@ -13,8 +13,8 @@ It is a touch-controlled spectacle integrated with Computer Vision that is desig
 • Convolution Neural Network(CNN)
 
 ##USP:
-• Lightweight
-• Compact and powerful ESP-32 used
-• Affordable
-• Android app which will run the ML model
-• Focus on less feature more performance
+• Lightweight<br />
+• Compact and powerful ESP-32 used<br />
+• Affordable<br />
+• Android app which will run the ML model<br />
+• Focus on less feature more performance<br />
