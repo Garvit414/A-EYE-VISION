@@ -19,3 +19,7 @@ It is a touch-controlled spectacle integrated with Computer Vision that is desig
 • Android app which will run the ML model<br />
 • Focus on less feature more performance<br />
 • Easy to use<br />
+
+## Demo Image
+
+![WhatsApp Image 2023-04-24 at 11 52 01](https://user-images.githubusercontent.com/103891145/233915949-ccc9ea01-0a00-41bd-8115-479d540350b8.jpeg)
